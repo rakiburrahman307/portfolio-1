@@ -335,7 +335,7 @@
     margin-bottom: 30px;
 }
 
-.contact-from input,
+.contact-form input,
 textarea {
     color: black;
     display: block;
@@ -344,7 +344,6 @@ textarea {
     border: none;
     margin-bottom: 10px;
 }
-
 .logo a {
     color: #FD6E0A;
     margin: 5px;
